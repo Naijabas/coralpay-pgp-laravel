@@ -16,7 +16,7 @@
             "email": "oseme.odigie@coralpay.com"
         }
     ],
-    "minimum-stability": "alpha",
+    "minimum-stability": "dev",
     "autoload": {
         "psr-4": {"Zaghadon\\CoralpayPGPLaravel\\": "src/"}
     },
