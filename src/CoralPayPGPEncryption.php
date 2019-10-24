@@ -7,7 +7,7 @@ namespace Zaghadon\CoralpayPGPLaravel;
  * Version 1.1.0
 */
 
-//require_once 'vendor/autoload.php';
+require_once 'vendor/autoload.php';
 
 class CoralPayPGPEncryption extends Crypt_GPG
 {
